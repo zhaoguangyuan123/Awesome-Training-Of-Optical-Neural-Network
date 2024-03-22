@@ -43,6 +43,7 @@
 
   ### Intermediate measurement optical backpropagation
   - [Experimentally realized in situ backpropagation for deep learning in photonic neural networks](https://www.science.org/doi/pdf/10.1126/science.ade8450)
+  - [Training of photonic neural networks through in situ backpropagation and gradient measurement](https://opg.optica.org/optica/fulltext.cfm?uri=optica-5-7-864&id=395466)
   - [In situ optical backpropagation training of diffractive optical neural networks](https://opg.optica.org/prj/fulltext.cfm?uri=prj-8-6-940&id=432129)
   - [Physical deep learning with biologically inspired training method: gradient-free approach for physical hardware](https://www.nature.com/articles/s41467-022-35216-2?fromPaywallRec=true)
 
