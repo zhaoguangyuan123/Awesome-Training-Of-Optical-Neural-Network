@@ -17,6 +17,8 @@
 
 # In-silico Training 
 @shuxin666 Add some early papers. [Not Urgent.]
+- [Deep learning with coherent nanophotonic circuits](https://www.nature.com/articles/nphoton.2017.93)
+- [All-optical machine learning using diffractive deep neural networks](https://www.science.org/doi/full/10.1126/science.aat8084)
 
 
 
