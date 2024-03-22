@@ -38,15 +38,17 @@
   
   ### Reinforcement learning
   - [High-performance real-world optical computing trained by in situ model-free optimization](https://arxiv.org/abs/2307.11957) **[Ours]**   **REINFORCE [NES]** 
-
-
   - [Reinforcement learning in a large-scale photonic recurrent neural network](https://opg.optica.org/optica/fulltext.cfm?uri=optica-5-6-756&id=392687)
+  - [A programmable diffractive deep neural network based on a digital-coding metasurface array](https://www.nature.com/articles/s41928-022-00719-9)
+
+  ### Intermediate measurement optical backpropagation
+  - [Experimentally realized in situ backpropagation for deep learning in photonic neural networks](https://www.science.org/doi/pdf/10.1126/science.ade8450)
+  - [In situ optical backpropagation training of diffractive optical neural networks](https://opg.optica.org/prj/fulltext.cfm?uri=prj-8-6-940&id=432129)
+  - [Physical deep learning with biologically inspired training method: gradient-free approach for physical hardware](https://www.nature.com/articles/s41467-022-35216-2?fromPaywallRec=true)
 
 -----------------------------------------
 ## Model-based Training
-  ### Direct Feedback
-  - [Physical deep learning with biologically inspired training method: gradient-free approach for physical hardware](https://www.nature.com/articles/s41467-022-35216-2?fromPaywallRec=true)
-  
+
   ### PAT/HBT
   <blockquote>
     Forward with physical system while backward with biased simulator. 
@@ -63,9 +65,7 @@
 
 ## Uncategorized [Needs Assignment]
   - [Training neural networks with end-to-end optical backpropagation](https://arxiv.org/pdf/2308.05226.pdf)
-  - [In situ optical backpropagation training of diffractive optical neural networks](https://opg.optica.org/prj/fulltext.cfm?uri=prj-8-6-940&id=432129)
-  - [Accurate online training of dynamical spiking neural networks through Forward Propagation Through Time](https://www.nature.com/articles/s42256-023-00650-4)
-  - [Experimentally realized in situ backpropagation for deep learning in photonic neural networks](https://www.science.org/doi/pdf/10.1126/science.ade8450)
+  <!-- - [Accurate online training of dynamical spiking neural networks through Forward Propagation Through Time](https://www.nature.com/articles/s42256-023-00650-4) -->
 
 
 
